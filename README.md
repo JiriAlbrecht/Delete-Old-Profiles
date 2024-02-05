@@ -1,1 +1,2 @@
-Delete profiles unused for more than 60 days
+Delete profiles unused for more than 60 days.
+Run PowerShell as administrator
